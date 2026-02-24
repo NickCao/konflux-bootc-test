@@ -1,0 +1,2 @@
+bootc-builder-image: "quay.io/centos-bootc/bootc-image-builder:latest"
+source-image: "quay.io/centos-bootc/centos-bootc:stream10"
