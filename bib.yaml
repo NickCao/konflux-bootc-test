@@ -1,2 +1,2 @@
 bootc-builder-image: "quay.io/centos-bootc/bootc-image-builder:latest"
-source-image: "quay.io/centos-bootc/centos-bootc:stream10"
+source-image: "quay.io/redhat-user-workloads/certpx-tool-tenant/bootc-image-devel:36.5.0-5.14.0_611.27.1-20260115194252"
